@@ -1,0 +1,16 @@
+{
+  "name": "image-uploader",
+  "version": "1.1.0",
+  "description": "Task 8 - Image Uploader - Developed by Mitesh Chaudhari (Intern at Celebal)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Mitesh Chaudhari",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.2",
+    "multer": "^2.0.2"
+  }
+}
